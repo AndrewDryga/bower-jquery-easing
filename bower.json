@@ -16,7 +16,7 @@
   "authors": [
     "George McGinley Smith"
   ],
-  "licenses": "NewBSD",
+  "licenses": "BSD",
   "ignore": [
     "**/.*",
     "bower_components"
