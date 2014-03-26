@@ -14,8 +14,7 @@
     "jquery": ">= 1.2.1"
   },
   "authors": [
-    "Source code: George McGinley Smith",
-    "Package: Jozef Izso"
+    "George McGinley Smith"
   ],
   "licenses": "NewBSD",
   "ignore": [
